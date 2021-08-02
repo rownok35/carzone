@@ -26,7 +26,7 @@ SECRET_KEY = '&q#r=307q7wiou$mw6fp2+t)j)l7dbvf%up0a7pe-5glshieoz'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['car-world35.herokuapp.com', 'localhost', '127.0.0.1']
 LOGIN_REDIRECT_URL = 'dashboard'
 # Application definition
 
